@@ -1,0 +1,14 @@
+pandas 
+jupyter 
+matplotlib 
+pandera[strategies]
+pytest
+pytest-cov
+nbdime 
+black[jupyter]
+nbqa
+flake8
+pandas-vet 
+flake8-bugbear 
+flake8-variables-names 
+flake8-builtins
